@@ -6,7 +6,7 @@
 - 👀 I’m interested in Tech Talks and Cars 🚙 
 - 🌱 I’m currently learning Java and React.Js
 - 💞️ I’m looking to collaborate on multiple domains projects 
-- 📫 How to reach me -> Just mail me on shoryaagarwal.gzb@gmail.com
+- 📫 How to reach me -> Just mail me on shoryaagarwal.gzb@gmail.com ✉ 
 
 <h2 align="left">Learn more about me by: </h2>
 <p align="left">
