@@ -9,7 +9,7 @@ Meet Shorya Agarwal, a distinguished Bachelor of Technology - Computer Science a
 
 Throughout my academic journey, I have consistently demonstrated a remarkable aptitude for computer science and engineering. My insatiable curiosity and dedication to learning have resulted in a comprehensive understanding of cutting-edge technologies, making them well-prepared to navigate the rapidly evolving IT sector. However, my prowess extends beyond technical acumen. Adept at teamwork and effective communication, I excel in collaborating with peers to drive projects forward.
 
-Apart from my academic journey, I am honored to share my expedition as the President of the "Computer Society of India" (CSI) at my college, where I've had the privilege of shaping the future of technology enthusiasts and witnessing the profound impact of collective passion. As President, my role extended beyond being a figurehead; it was about creating an environment that nurtured innovation and collaboration.
+Apart from my academic journey, I am honored to share my expedition as the President of the "Computer Society of India" (CSI) at my college. As President, my role extended beyond being a figurehead; it was about creating an environment that nurtured innovation and collaboration.
 </p>
 
 - 👀 I'm complete automobile 🚘 nut.
