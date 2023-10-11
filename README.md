@@ -28,11 +28,11 @@ Apart from my academic journey, I am honored to share my expedition as the Presi
 <!--<p align="left">
 <a href="https://www.linkedin.com/in/shorya-agarwal-gzb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shoryaagarwal" height="30" width="40" /></a>
 </p>-->
-<!--<p align="left">
+<p align="left">
 <a href="https://www.linkedin.com/in/shorya-agarwal-gzb/" target="blank"><img align="center" src="
 https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="shoryaagarwal" height="30" width="40" /></a>
-</p>-->
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shorya-agarwal-gzb/)
+</p>
+<!--[![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shorya-agarwal-gzb/)-->
 
 
 
