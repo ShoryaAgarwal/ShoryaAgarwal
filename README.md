@@ -2,7 +2,7 @@
 <h2 align="center"> An Ardent Computer Science Engineer from India/Bharat </h2>
 
 
-<img align="right" alt="Hello World" width="350" src="https://camo.githubusercontent.com/d8a7b68700e343761bb04aee7c848aade21227cdae9e9ce9f1dac0d7c88df23d/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3033352f3639332f3635362f6f726967696e616c2f6777796e6574682d62616c7563696f2d68656c6c6f2d776f726c642e6769663f31363135363432383737">
+<img align="right" alt="Hello World" width="400" src="https://camo.githubusercontent.com/d8a7b68700e343761bb04aee7c848aade21227cdae9e9ce9f1dac0d7c88df23d/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3033352f3639332f3635362f6f726967696e616c2f6777796e6574682d62616c7563696f2d68656c6c6f2d776f726c642e6769663f31363135363432383737">
 
 <p align= ”justify” >
 Meet Shorya Agarwal, a distinguished Bachelor of Technology - Computer Science and Engineering student on the cusp of stepping into the dynamic realm of the IT industry. With a stellar academic record and a trail of accomplishments, I brings a blend of exceptional skills and a fervent passion for technology to the corporate landscape.
@@ -22,16 +22,18 @@ Apart from my academic journey, I am honored to share my expedition as the Presi
 <h2 align="left">My Personal Preference 😍:</h2>
 
 - 💻 I love exploring new technologies.
-- 📰 Reading, writing & watching Tech Stuff whenever possible.
+- 📰 Reading, writing & watching tech stuff whenever possible.
 
 <h2 align="left">Additional way to get to know me:</h2>
 <!--<p align="left">
 <a href="https://www.linkedin.com/in/shorya-agarwal-gzb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shoryaagarwal" height="30" width="40" /></a>
 </p>-->
-<p align="left">
+<!--<p align="left">
 <a href="https://www.linkedin.com/in/shorya-agarwal-gzb/" target="blank"><img align="center" src="
 https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="shoryaagarwal" height="30" width="40" /></a>
-</p>
+</p>-->
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shorya-agarwal-gzb/)
+
 
 
 <h2 align="left"> 🔝 Skills:</h2>
