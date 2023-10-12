@@ -24,16 +24,10 @@ Apart from my academic journey, I am honored to share my expedition as the Presi
 - 💻 I love exploring new technologies.
 - 📰 Reading, writing & watching tech stuff whenever possible.
 
-<h2 align="left">Additional way to get to know me:</h2>
-<!--<p align="left">
-<a href="https://www.linkedin.com/in/shorya-agarwal-gzb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shoryaagarwal" height="30" width="40" /></a>
-</p>-->
-<p align="left">
-<a href="https://www.linkedin.com/in/shorya-agarwal-gzb/" target="blank"><img align="center" src="
-https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="shoryaagarwal" height="30" width="40" /></a>
-</p>
-<!--[![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shorya-agarwal-gzb/)-->
 
+<h2 align="left">Additional way to get to know me:</h2>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shorya-agarwal-gzb/)
 
 
 <h2 align="left"> 🔝 Skills:</h2>
