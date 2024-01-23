@@ -4,7 +4,7 @@
 
 <!--<img align="right" alt="Hello World" width="400" src="https://camo.githubusercontent.com/d8a7b68700e343761bb04aee7c848aade21227cdae9e9ce9f1dac0d7c88df23d/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3033352f3639332f3635362f6f726967696e616c2f6777796e6574682d62616c7563696f2d68656c6c6f2d776f726c642e6769663f31363135363432383737">-->
 
-<img align="right" alt="Hello World" width="400" src="https://www.artstation.com/artwork/QrDnmE">
+<img align="right" alt="Hello World" width="400" src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877">
 
 <p align= ”justify” >
 Meet Shorya Agarwal, a distinguished Bachelor of Technology - Computer Science and Engineering student on the cusp of stepping into the dynamic realm of the IT industry. With a stellar academic record and a trail of accomplishments, I brings a blend of exceptional skills and a fervent passion for technology to the corporate landscape.
